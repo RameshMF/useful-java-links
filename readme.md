@@ -2,6 +2,33 @@
 This is a fork of [awesome link](https://github.com/akullpp/awesome-java) with new structure, additional license info and github's star info for every link, with a lot of new links (all non-mobile github projects with 390 or more star) and so on. **The russian version is [in this place](https://github.com/Vedenin/useful-java-links/tree/master/link-rus)**.  
 **The "Hello Worlds examples" project is [in this place](https://github.com/Vedenin/useful-java-links/tree/master/helloworlds)**.
 
+<div class="widget-content">
+<ul><li><a href="http://www.javaguides.net/p/java-tutorial-learn-java-programming.html">Java Tutorial for Beginners</a></li>
+<li><a href="http://www.javaguides.net/p/list-of-java-keywords.html">50 Java Keywords</a></li>
+<li><a href="http://www.javaguides.net/p/jdbc-tutorial.html">JDBC 4.2 Tutorial</a></li>
+<li><a href="http://www.javaguides.net/p/top-java-tutorials.html">All Java/J2EE Tutorial</a></li>
+
+<li><a href="http://www.javaguides.net/p/java-8.html">Java 8 Tutorial</a></li>
+<li><a href="http://www.javaguides.net/p/java-collections-guide.html">Java Collections Tutorial</a></li>
+<li><a href="http://www.javaguides.net/p/java-exception-handling-tutorial.html">Java Exceptions Tutorial</a></li>
+<li><a href="http://www.javaguides.net/p/java-generics-guide.html">Java Generics Tutorial</a></li>
+<li><a href="http://www.javaguides.net/p/java-8-stream-api-tutorial.html">Java 8 Stream API Tutorial</a></li>
+<li><a href="http://www.javaguides.net/p/java-wrapper-classes.html">Java Wrapper Classes</a></li>
+<li><a href="http://www.javaguides.net/p/java-arrays-guide.html">Java Arrays Guide</a></li>
+<li><a href="http://www.javaguides.net/p/java-multithreading-utorial.html">Java Multithreading Tutorial</a></li>
+<li><a href="http://www.javaguides.net/p/java-concurrency-tutorial.html">Java Concurrency Tutorial</a></li>
+<li><a href="http://www.javaguides.net/p/object-oriented-design.html">Oops Concepts Tutorial</a></li>
+<li><a href="http://www.javaguides.net/p/java-string-api-guide.html">Java String API Guide</a></li>
+<li><a href="http://www.javaguides.net/p/java-reflection-api-tutorial.html">Java Reflection API Tutorial</a></li>
+<li><a href="http://www.javaguides.net/p/java-io-tutorial.html">Java I/O Tutorial</a></li>
+<li><a href="http://www.javaguides.net/p/java-8-date-time-api-tutorial.html">Date and Time API Tutorial</a></li>
+<li><a href="http://www.javaguides.net/p/junit-5.html">JUnit 5 Tutorial</a></li>
+<li><a href="http://www.javaguides.net/p/junit-4.html">JUnit 4 Tutorial</a></li>
+<li><a href="http://www.javaguides.net/p/java-xml-tutorial.html">Java XML Tutorial</a></li>
+<li><a href="http://www.javaguides.net/p/google-gson-tutorial.html">Google GSON Tutorial</a></li>
+</ul>
+</div>
+
 # Useful java links
 
 - [I. Development](#i-development)
